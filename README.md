@@ -1,10 +1,10 @@
-# SeedStack ModelMapper add-on
+# SeedStack Business Rest-addon
 
-[![Build status](https://travis-ci.org/seedstack/modelmapper-addon.svg?branch=master)](https://travis-ci.org/seedstack/modelmapper-addon) [![Coverage Status](https://coveralls.io/repos/seedstack/modelmapper-addon/badge.svg?branch=master)](https://coveralls.io/r/seedstack/modelmapper-addon?branch=master) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.modelmapper/modelmapper/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.modelmapper/modelmapper)
+[![Build status](https://travis-ci.org/seedstack/business-rest-addon.svg?branch=master)](https://travis-ci.org/seedstack/business-rest-addon) [![Coverage Status](https://coveralls.io/repos/seedstack/business-rest-addon/badge.svg?branch=master)](https://coveralls.io/r/seedstack/modelmapper-addon?branch=master) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.business.rest/business-rest-addon/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.business.rest)
 
-Provides business framework automatic assemblers based on the open-source library ModelMapper.
+Provides automated rest-endpoint for basic CRUD operations for basic aggregates.
 
 # Copyright and license
 
-This source code is copyrighted by [The SeedStack Authors](https://github.com/seedstack/seedstack/blob/master/AUTHORS) and
+This source code copyrighted by Me (Untill it passes to be part of seedstack official addons) and
 released under the terms of the [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/). 
