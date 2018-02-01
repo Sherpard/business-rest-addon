@@ -1,6 +1,6 @@
 # SeedStack Business Rest-addon
 
-[![Build status](https://travis-ci.org/Sherpard/business-rest-addon.svg?branch=master)](https://travis-ci.org/Sherpard/business-rest-addon) [![Coverage Status](https://coveralls.io/repos/seedstack/business-rest-addon/badge.svg?branch=master)](https://coveralls.io/r/seedstack/modelmapper-addon?branch=master) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.business.rest/business-rest-addon/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.business.rest)
+[![Build status](https://travis-ci.org/Sherpard/business-rest-addon.svg?branch=master)](https://travis-ci.org/Sherpard/business-rest-addon) [![Coverage Status](https://coveralls.io/repos/github/Sherpard/business-rest-addon/badge.svg?branch=master)](https://coveralls.io/github/Sherpard/business-rest-addon?branch=master) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.business.rest/business-rest-addon/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.seedstack.addons.business.rest)
 
 Provides automated rest-endpoint for basic CRUD operations for basic aggregates.
 
